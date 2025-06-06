@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/agenda_de_contatos.iml" filepath="$PROJECT_DIR$/.idea/agenda_de_contatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meu-projeto-java/src/meu-projeto-java.iml" filepath="$PROJECT_DIR$/meu-projeto-java/src/meu-projeto-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meu-projeto-java/src/test/test.iml" filepath="$PROJECT_DIR$/meu-projeto-java/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
